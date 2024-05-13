@@ -1,0 +1,5 @@
+﻿  Barco.cpp
+  Carrera.cpp
+F:\1- FPP\DAM\M5\practica barco\Barco\Barco\Carrera.cpp(13,15): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+  Generando código...
+  Barco.vcxproj -> F:\1- FPP\DAM\M5\practica barco\Barco\x64\Debug\Barco.exe
